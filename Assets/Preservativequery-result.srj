@@ -1,0 +1,123 @@
+{
+  "head" : {
+    "vars" : [
+      "EAN"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4002448065111"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4010355592118"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172509377"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172179648"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172051845"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172051869"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172509117"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172491306"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172509681"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172453151"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172508851"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172336652"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172470080"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "4058172470066"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "8710908769085"
+        }
+      },
+      {
+        "EAN" : {
+          "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+          "type" : "literal",
+          "value" : "8710908778148"
+        }
+      }
+    ]
+  }
+}

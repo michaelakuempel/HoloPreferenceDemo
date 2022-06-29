@@ -1,0 +1,4 @@
+C:\Users\micha\OneDrive\Documents\UnityProjects\NoExtrasRoomObjects\LabAppMitAnchor\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\micha\OneDrive\Documents\UnityProjects\NoExtrasRoomObjects\LabAppMitAnchor\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj;x86
+C:\Users\micha\OneDrive\Documents\UnityProjects\NoExtrasRoomObjects\LabAppMitAnchor\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj;x86
+C:\Users\micha\OneDrive\Documents\UnityProjects\NoExtrasRoomObjects\LabAppMitAnchor\NoExtrasRoomObjects\NoExtrasRoomObjects.csproj;x86
