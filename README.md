@@ -5,7 +5,7 @@ This project was created using Unity version <b>2018.4.!</b> It will not work on
 If you don't have Unity installed already, use the <a href="https://unity3d.com/get-unity/download">Unity hub</a> for installation, that makes it easiest and installs dependencies for you.
 Additionally, you need UWP .Net build support. You might need Android build support for smartphone Apps, Vuforia Augmented Reality if you want to use image recognition.
 
-You will probably also need the <a href="https://developer.microsoft.com/de-de/windows/downloads/windows-10-sdk/"Windows 10 SDK</a>
+You will probably also need the <a href="https://developer.microsoft.com/de-de/windows/downloads/windows-10-sdk/">Windows 10 SDK</a>
 There, select the .net framework development kit as well as IP over USB
 
 # Project Settings
